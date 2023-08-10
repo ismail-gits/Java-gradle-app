@@ -1,5 +1,5 @@
 # Java Spring Boot Application
-Simple Java Spring Boot application that demonstrates the basic structure of a Spring Boot project and uses Gradle build tool to build the project and build.gradle file to manage dependencie.
+Simple Java Spring Boot application that demonstrates the basic structure of a Spring Boot project and uses Gradle build tool to build the project and build.gradle file to manage dependencies.
 
 ## Overview
 The Main class represents the main entry point of the application. It utilizes Spring Boot's annotations to initialize the Spring ApplicationContext and log a message upon startup.
